@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Local Cycling
 
-## Getting Started
+Local Cycling is a resource that provides information about local cycling events. On our platform, users have the ability to browse through various cycling events happening in their area. We offer detailed search and filter options, allowing users to easily find the specific event they are interested in.
 
-First, run the development server:
+Whether you're a seasoned cyclist looking for a challenging race, or a casual rider searching for a fun community ride, Local Cycling offers a convenient way to discover and explore local cycling events.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Dependencies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Mantine**
+https://mantine.dev/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Mantine DataTable**
+https://icflorescu.github.io/mantine-datatable/
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Next.js**
+https://nextjs.org/
 
-## Learn More
+**Tabler icons**
+https://tabler-icons.io/
 
-To learn more about Next.js, take a look at the following resources:
+**Supabase**
+https://www.supabase.com
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**LibPhoneNumber**
+https://github.com/catamphetamine/libphonenumber-js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**React PDF**
+https://v3.react-pdf.org/
 
-## Deploy on Vercel
+**React Confetti**
+https://github.com/herrethan/react-confetti-explosion?tab=readme-ov-file
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Dnd Kit**
+https://docs.dndkit.com/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Date FNS**
+https://date-fns.org/
+
+**Radar**
+https://radar.com/documentation/
+
+**Unsplash**
+https://unsplash.com/developers
+
+**Every.org**
+https://www.every.org/developer
+
+**Brand fetch**
+https://docs.brandfetch.com/docs/getting-started
+
+**React image crop**
+https://github.com/dominictobias/react-image-crop
+
+**React CSV**
+https://www.npmjs.com/package/react-csv
+
+**React Count up**
+https://github.com/glennreyes/react-countup?tab=readme-ov-file#installation
+
+**Rive**
+https://www.rive.app
+
+**Leaflet**
+https://leafletjs.com/
